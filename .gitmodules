@@ -1,0 +1,9 @@
+[submodule "farmstack-frontend"]
+	path = farmstack-frontend
+	url = https://github.com/digitalgreenorg/farmstack-frontend
+[submodule "farmstack-backend"]
+	path = farmstack-backend
+	url = https://github.com/digitalgreenorg/farmstack-backend
+[submodule "fs-install"]
+	path = fs-install
+	url = https://github.com/digitalgreenorg/fs-install
